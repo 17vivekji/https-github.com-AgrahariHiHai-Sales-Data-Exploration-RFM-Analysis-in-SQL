@@ -1,1 +1,1 @@
-# https-github.com-AgrahariHiHai-Sales-Data-Exploration-RFM-Analysis-in-SQL
+Sales-Data-Exploration-RFM-Analysis-in-SQL
